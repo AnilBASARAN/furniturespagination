@@ -32,7 +32,7 @@ const App = () => {
       
       
       
-      <div className="mx-4 mb-10 text-4xl text-stone-600 ">Autumn's Fabulous Furniture</div>
+      <div className="mx-4 mb-10 text-4xl text-stone-600 ">Future Furniture</div>
 
       <div className="flex justify-end border-b-2 border-black px-8 w-full max-w-3xl " >{buttons}</div>
       
